@@ -13,4 +13,8 @@ This repository serves as a personal playground for exploring different programm
 ## Purpose
 * Documenting my personal coding journey.
 * Building a strong foundation across diverse tech stacks.
+<<<<<<< HEAD
 * Creating a quick-reference guide for common programming patterns.
+=======
+* Creating a quick-reference guide for common programming patterns.
+>>>>>>> d20f689 (Add ShapesAreaCal.py for area calculation of various shapes)
